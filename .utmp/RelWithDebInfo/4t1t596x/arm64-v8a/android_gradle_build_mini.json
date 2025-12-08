@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/sasidharappalla/Documents/Unity Project/Chimera_AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt",
+    "/Users/sasidharappalla/Documents/Unity Project/Chimera_AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Applications/Unity/Hub/Editor/6000.2.0f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/sasidharappalla/Documents/Unity Project/Chimera_AR/.utmp/RelWithDebInfo/4t1t596x/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Applications/Unity/Hub/Editor/6000.2.0f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/sasidharappalla/Documents/Unity Project/Chimera_AR/.utmp/RelWithDebInfo/4t1t596x/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "arm64-v8a",
+      "output": "/Users/sasidharappalla/Documents/Unity Project/Chimera_AR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4t1t596x/obj/arm64-v8a/libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}
